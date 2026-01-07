@@ -8,3 +8,7 @@ In this project, I created a a simple webpage that users can upload photos with 
 <p align="justify">
 - To practice simple CICD versioning and deployment's practice by using Git and Docker.
 </p>
+
+## Steps and Methodologies
+## Summary and Finding
+## Credit & References
